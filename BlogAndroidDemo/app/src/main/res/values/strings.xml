@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlogAndroidDemo</string>
+    <string name="price">金额:</string>
+</resources>
